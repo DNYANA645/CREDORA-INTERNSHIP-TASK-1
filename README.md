@@ -66,4 +66,4 @@ You can try the notebook live on Google Colab [[here](https://colab.research.goo
 
 ## 👨‍💻 Author
 
-* **Dnyanesh** – Data Science Intern @ Credora
+* **Dnyanesh Shinde** – Data Science Intern @ Credora
