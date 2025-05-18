@@ -55,10 +55,10 @@ All visualizations are saved in `/outputs/` folder:
 ## 📄 Report
 
 The full report of insights and visualizations is included in [report.pdf](file:///C:/Users/VICTUS/OneDrive/Documents/REPORT%20TASK1%20CREDORA%20BY%20DNYANESH.pdf)
-
+](#).
 ---
 
-## 🔗 Live Notebook
+## 🔗 Live Noteb]ook
 
 You can try the notebook live on Google Colab [[here](https://colab.research.google.com/drive/137VysOXzBIAgC2pYhZhrDsHQrD9ffmiO#scrollTo=xZzY1Pd2I49V)](#) * 
 
