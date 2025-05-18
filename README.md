@@ -54,7 +54,7 @@ All visualizations are saved in `/outputs/` folder:
 
 ## 📄 Report
 
-The full report of insights and visualizations is included in [report.pdf]([file:///C:/Users/VICTUS/OneDrive/Documents/REPORT%20TASK1%20CREDORA%20BY%20DNYANESH.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-1/blob/main/REPORT%20TASK1%20CREDORA%20BY%20DNYANESH.pdf))
+The full report of insights and visualizations is included in [report.pdf](https://github.com/DNYANA645/CREDORA-INTERNSHIP-TASK-1/blob/main/REPORT%20TASK1%20CREDORA%20BY%20DNYANESH.pdf)
 
 ---
 
